@@ -1,0 +1,25 @@
+audio/music/12.ogg is an unmodified copy of voc-night by semajD, licensed under Creative Commons Attribution Share-Alike 3.0 Unported, https://creativecommons.org/licenses/by-sa/3.0/legalcode 
+
+For in-depth audio copyright information see licenses/AUDIO.TXT
+
+All other files ending in ".jpg", ".png", ".xcf", ".obj", ".mtl", ".ogg", and ".txt" are Copyright 2020-2022 MCL and Looki2000, licensed under Creative Commons Attribution 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+
+Files ending in ".exe", ".cpp", ".c", and ".h" are Copyright 2020-2022 MCL, licensed under the agreement in licenses/BJXSRC.TXT
+
+This program makes use of the Irrlicht library, the license for which, can be found in licenses/IRRLICHT.TXT
+
+This program also makes use of libjpeg, licensed under the terms found in licenses/LIBJPEG.TXT
+
+The libsndfile library used in this software is distributed in accordance with the GNU Lesser General Public License Version 3, which can be found in licenses/LGPL.TXT,
+the original source code was not modified and can be accessed at the following Web address: http://www.mega-nerd.com/libsndfile/
+
+An unmodified version of OpenAL-Soft 1.21.1 has been used in the making of this software, it
+is licensed under the terms and conditions of the GNU Lesser General Public License (LGPL) Version 3,
+which can be found in licenses/LGPL.TXT
+
+OpenAL-Soft Binary used: https://openal-soft.org/openal-binaries/openal-soft-1.21.1-bin.zip
+OpenAL-Soft source code used: https://openal-soft.org/openal-releases/openal-soft-1.21.1.tar.bz2
+
+libgcc, libstdc++, and libwinpthread were taken from binaries provided by the MinGW-w64 project, the files are in unmodified form.
+The license agreement for MinGW-w64 is located in licenses/MINGWW64.TXT

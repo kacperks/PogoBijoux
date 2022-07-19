@@ -1,0 +1,47 @@
+# Blender MTL File: 'backrooms.blend'
+# Material Count: 4
+
+newmtl dropped_ceilling
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.400000 0.320000 0.000000 -s 0.500000 0.500000 1.000000 C:\\Users\\INSPIRON\\Desktop\\textures\\ceiling.jpg
+
+newmtl floor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -s 0.250000 0.250000 1.000000 textures\\book_pattern_1k.blend\\textures\\book_pattern_nor_gl_1k.exr
+map_Kd -s 0.250000 0.250000 1.000000 textures\\book_pattern_1k.blend\\textures\\book_pattern_col1_1k.png
+map_Ns -s 0.250000 0.250000 1.000000 textures\\book_pattern_1k.blend\\textures\\book_pattern_rough_1k.jpg
+
+newmtl light
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl walls
+Ns 12.570237
+Ka 1.000000 1.000000 1.000000
+Kd 0.613759 0.455601 0.072541
+Ks 0.736364 0.736364 0.736364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 2.000000 2.000000 2.000000 textures\\walls_texture.png
