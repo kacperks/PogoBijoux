@@ -1,4 +1,4 @@
-#include <irrlicht.h>
+#include <irrlicht/irrlicht.h>
 
 #include <stdio.h>
 #include <stdlib.h>

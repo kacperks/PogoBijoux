@@ -1,5 +1,5 @@
 #include "Base.h"
-#include <irrlicht.h>
+#include <irrlicht/irrlicht.h>
 
 
 class RayCastHandler

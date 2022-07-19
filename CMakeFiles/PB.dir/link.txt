@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/PB.dir/src/main.cpp.o CMakeFiles/PB.dir/src/Sound.c.o -o PB  -lopenal -lsndfile -lIrrlicht -lGL -lGLU -lXxf86vm -lXext -lX11 

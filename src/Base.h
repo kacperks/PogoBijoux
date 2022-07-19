@@ -1,7 +1,7 @@
 #ifndef BASE_H
 #define BASE_H
 
-#include <irrlicht.h>
+#include <irrlicht/irrlicht.h>
 #include "EventReceiver.h"
 class PogoBijoux
 {

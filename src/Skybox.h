@@ -2,7 +2,7 @@
 #define CREDITS_H
 
 #include "Base.h"
-#include <irrlicht.h>
+#include <irrlicht/irrlicht.h>
 
 
 class SkyboxManager

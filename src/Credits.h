@@ -1,7 +1,7 @@
 #ifndef CREDITS_H
 #define CREDITS_H
 
-#include <irrlicht.h>
+#include <irrlicht/irrlicht.h>
 #include "Base.h"
 
 PogoBijoux pb;

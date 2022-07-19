@@ -1,7 +1,7 @@
 #ifndef TITLEMENU_H
 #define TITLEMENU_H
 
-#include <irrlicht.h>
+#include <irrlicht/irrlicht.h>
 #include "Base.h"
 #include "Credits.h"
 
